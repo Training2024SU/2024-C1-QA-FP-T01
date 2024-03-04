@@ -43,3 +43,13 @@ Las pruebas son una forma de QC. Los resultados se utilizan en QA y QC
 
 **Causa raíz** es la razón fundamental para la ocurrencia de un problema.
 
+### Principios de la Prueba
+
+1. Las pruebas muestran la presencia, no la ausencia de defectos.
+2. Las pruebas exhaustivas son imposibles.
+3. Las pruebas tempranas ahorran tiempo y dinero.
+4. Los defectos se agrupan. // Pareto, importante para pruebas basadas en riesgo.
+5. Las pruebas se desgastan.
+6. Las pruebas dependen del contexto.
+7. Falacia de la ausencia de defectos. // validación!! > verificación
+
