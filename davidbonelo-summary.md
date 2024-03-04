@@ -75,3 +75,23 @@ Las actividades componen un proceso, el cual se debe adaptar dependiendo el cont
 
 **Trazabilidad** importante para el seguimiento, la cobertura, etc.
 
+### Habilidades y buenas prácticas
+
+- Conocimiento en pruebas
+- Rigurosidad, atención al detalle, ser metódico
+- Habilidades de comunicación y trabajo en equipo. (Los probadores son a menudo los portadores de malas noticias.)
+- Pensamiento analítico, crítico y creatividad.
+- Conocimientos técnicos
+- Conocimiento del dominio
+
+**Enfoque de equipo completo**
+
+- Cualquier miembro del equipo con los conocimientos y habilidades necesarios puede realizar cualquier tarea, y todos son responsables de la calidad.
+- Esto incluye colaborar con representantes de negocios para ayudarlos a crear pruebas de aceptación adecuadas y trabajar con desarrolladores para acordar la estrategia de prueba.
+- **Los probadores pueden transferir el conocimiento de las pruebas a otros miembros del equipo e influir en el desarrollo del producto.**
+
+**Independencia:**
+
+- Es mejor llevar a cabo pruebas con diferentes niveles de independencia (unit, integration, acceptance).
+- Los probadores indepenientes pueden reconocer diferentes tipos de fallas y defectos debido a sus diferentes antecedentes, perspectivas y sesgos
+
