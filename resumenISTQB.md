@@ -1,0 +1,1 @@
+## https://www.notion.so/Resumen-ISTQB-probador-certificado-nivel-b-sico-ba6731595c2447ccb68645648fdf05f0?pvs=4
