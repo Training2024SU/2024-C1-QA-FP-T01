@@ -95,3 +95,50 @@ Las actividades componen un proceso, el cual se debe adaptar dependiendo el cont
 - Es mejor llevar a cabo pruebas con diferentes niveles de independencia (unit, integration, acceptance).
 - Los probadores indepenientes pueden reconocer diferentes tipos de fallas y defectos debido a sus diferentes antecedentes, perspectivas y sesgos
 
+## Pruebas a lo Largo del Ciclo de Vida del Desarrollo de Software
+
+Un modelo SDLC define cómo las diferentes fases de desarrollo y los tipos de actividades realizadas dentro de este proceso se relacionan entre sí, tanto lógica como cronológicamente.
+
+Las pruebas deben adaptarse al SDLC para tener éxito. // Actividades, alcance, documentación, enfoque, automatización
+
+- desarrollo guiado por pruebas (TDD)
+- desarrollo guiado por pruebas de aceptación (ATDD)
+- desarrollo guiado por el comportamiento (BDD)
+
+- diseño guiado por dominios (DDD)
+- programación extrema (XP)
+- desarrollo guiado por características(FDD)
+- Kanban
+- Lean IT
+- Scrum
+
+**Buenas prácticas**
+
+- Cada actividad de desarrollo está sujeta a actividades de pruebas
+- Los diferentes niveles de prueba tienen objetivos específicos.
+- El análisis y diseño de la prueba para un nivel de prueba dado comienza durante la fase de
+desarrollo correspondiente del SDLC
+- Los probadores participan en la revisión de los productos de trabajo tan pronto como se
+dispone de borradores de esta documentación
+
+**DevOps**
+
+Es un enfoque organizacional que tiene como objetivo crear sinergia al lograr que el desarrollo (incluidas las pruebas) y las operaciones trabajen juntos. // CI/CD
+
+Promueve una retroalimentación rápida sobre la calidad del código
+
+Aunque DevOps viene con un alto nivel de pruebas automatizadas, las pruebas manuales,
+especialmente desde la perspectiva del usuario, seguirán siendo necesarias.
+
+**Desplazamiento hacia la Izquierda**
+
+Basado en el principio de pruebas tempranas, es un enfoque en el que las pruebas se realizan antes en el SDLC. // revisar la especificación, escribir casos de prueba antes que el código
+
+Este enfoque puede resultar en mayor esfuerzo/costo más temprano en el proceso, pero se espera que los reduzca al final.
+
+**Retrospectiva**
+
+- ¿Qué fue exitoso y qué debe mantenerse?
+- ¿Qué es lo que no ha tenido éxito y se puede mejorar?
+- ¿Cómo incorporar las mejoras y retener los éxitos en el futuro?
+
