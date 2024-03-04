@@ -53,3 +53,25 @@ Las pruebas son una forma de QC. Los resultados se utilizan en QA y QC
 6. Las pruebas dependen del contexto.
 7. Falacia de la ausencia de defectos. // validación!! > verificación
 
+### Actividades, Testware y Roles de la Prueba
+
+**Roles:** Gestor de pruebas (GP) y Probador (P)
+
+Las actividades componen un proceso, el cual se debe adaptar dependiendo el contexto del systema y proyecto. Algunas actividades comunes son:
+
+- (GP) **Planificación** definición de objetivos, enfoque y limitaciónes
+- (GP) **Monitoreo y control de prueba** monitoreo de las actividades, comprobación del progreso y toma de acciones para cumplir los objetivos de las pruebas.
+- (P) **Análisis de prueba** ***¿Qué probar?*** identificación de caracteristicas comprobables del objeto de prueba, priorización y riesgo de las pruebas.
+- (P) **Diseño de prueba** ***¿Cómo probar?*** elaboración de casos de prueba. Definición de requisitos, entorno, herramientas, etc.
+- (P) **Implementación de la prueba** creación o adquisición de lo necesario para la ejecución, datos, scripts manuales y automatizados, cronograma, entorno.
+- (P) **La ejecución de pruebas** Ejecución, comparación de los resultados obtenidos y los esperados, repoprtes, análisis de anomalías.
+- (GP) **Finalización de prpuebas** archivo, entrega de información útil, cierre de entorno, review general e informe de finalización.
+
+**Contexto:** Partes interesadas, Miembros del equipo, Dominio del negocio, Factores técnicos, Limitaciones del proyecto, Factores organizativos, Ciclo de vida del desarrollo de software, Herramientas.
+
+**Impacto:** estrategia, técnicas, automatización, cobertura, documentación, informes, etc.
+
+**Testware:** productos de trabajo de salida de las actividades ^^
+
+**Trazabilidad** importante para el seguimiento, la cobertura, etc.
+
